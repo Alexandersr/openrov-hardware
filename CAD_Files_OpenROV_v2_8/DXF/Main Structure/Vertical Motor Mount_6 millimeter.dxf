@@ -197,7 +197,6 @@ $DIMZIN
   9
 $DIMBLK
   1
-
   9
 $DIMASO
  70
@@ -209,11 +208,9 @@ $DIMSHO
   9
 $DIMPOST
   1
-
   9
 $DIMAPOST
   1
-
   9
 $DIMALT
  70
@@ -253,11 +250,9 @@ $DIMSAH
   9
 $DIMBLK1
   1
-
   9
 $DIMBLK2
   1
-
   9
 $DIMSTYLE
   2
@@ -365,7 +360,6 @@ $DIMFRAC
   9
 $DIMLDRBLK
   1
-
   9
 $DIMLUNIT
  70
@@ -409,15 +403,12 @@ $DIMARCSYM
   9
 $DIMLTYPE
   6
-
   9
 $DIMLTEX1
   6
-
   9
 $DIMLTEX2
   6
-
   9
 $DIMTXTDIRECTION
  70
@@ -449,7 +440,6 @@ $AUPREC
   9
 $MENU
   1
-.
   9
 $ELEVATION
  40
@@ -573,11 +563,9 @@ $SURFV
   9
 $UCSBASE
   2
-
   9
 $UCSNAME
   2
-
   9
 $UCSORG
  10
@@ -605,7 +593,6 @@ $UCSYDIR
   9
 $UCSORTHOREF
   2
-
   9
 $UCSORTHOVIEW
  70
@@ -661,11 +648,9 @@ $UCSORGBACK
   9
 $PUCSBASE
   2
-
   9
 $PUCSNAME
   2
-
   9
 $PUCSORG
  10
@@ -693,7 +678,6 @@ $PUCSYDIR
   9
 $PUCSORTHOREF
   2
-
   9
 $PUCSORTHOVIEW
  70
@@ -909,11 +893,9 @@ $INSUNITS
   9
 $HYPERLINKBASE
   1
-
   9
 $STYLESHEET
   1
-
   9
 $XEDIT
 290
@@ -989,7 +971,6 @@ $DIMASSOC
   9
 $PROJECTNAME
   1
-
   9
 $CAMERADISPLAY
 290
@@ -1449,7 +1430,6 @@ ByBlock
  70
      0
   3
-
  72
     65
  73
@@ -1471,7 +1451,6 @@ ByLayer
  70
      0
   3
-
  72
     65
  73
@@ -4057,7 +4036,6 @@ Standard
   3
 txt
   4
-
   0
 STYLE
   5
@@ -4085,7 +4063,6 @@ Annotative
   3
 txt
   4
-
 1001
 AcadAnnotative
 1000
@@ -4109,7 +4086,6 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-
  70
      1
  40
@@ -4125,7 +4101,6 @@ AcDbTextStyleTableRecord
   3
 ltypeshp.shx
   4
-
   0
 ENDTAB
   0
@@ -4365,7 +4340,6 @@ AcDbBlockBegin
   3
 *Model_Space
   1
-
   0
 ENDBLK
   5
@@ -4405,7 +4379,6 @@ AcDbBlockBegin
   3
 *Paper_Space
   1
-
   0
 ENDBLK
   5
@@ -4447,7 +4420,6 @@ AcDbBlockBegin
   3
 *Paper_Space0
   1
-
   0
 ENDBLK
   5
@@ -5305,11 +5277,8 @@ AcDbXrecord
 280
      1
 300
-
 300
-
 300
-
   0
 DICTIONARY
   5
@@ -5843,7 +5812,6 @@ AcDbDetailViewStyle
  40
 0.24
 300
-
  40
 0.36
 280
@@ -5903,13 +5871,9 @@ LAYOUT
 100
 AcDbPlotSettings
   1
-
   2
-
   4
-
   6
-
  40
 0.0
  41
@@ -5947,7 +5911,6 @@ AcDbPlotSettings
  74
      5
   7
-
  75
     16
 147
@@ -6035,13 +5998,9 @@ LAYOUT
 100
 AcDbPlotSettings
   1
-
   2
-
   4
-
   6
-
  40
 0.0
  41
@@ -6079,7 +6038,6 @@ AcDbPlotSettings
  74
      5
   7
-
  75
     16
 147
@@ -6167,13 +6125,9 @@ LAYOUT
 100
 AcDbPlotSettings
   1
-
   2
-
   4
-
   6
-
  40
 0.0
  41
@@ -6211,7 +6165,6 @@ AcDbPlotSettings
  74
      0
   7
-
  75
      0
 147
@@ -7005,7 +6958,6 @@ Standard
  44
 0.18
 300
-
 342
 55
 174
@@ -7077,7 +7029,6 @@ STANDARD
  70
      0
   3
-
  62
    256
  51
@@ -7697,7 +7648,6 @@ Standard
  91
         0
   1
-
 274
     -2
 284
@@ -7751,7 +7701,6 @@ Standard
  91
         0
   1
-
 274
     -2
 284
@@ -7805,7 +7754,6 @@ Standard
  91
         0
   1
-
 274
     -2
 284
@@ -15675,7 +15623,6 @@ CONTENTFORMAT_BEGIN
  93
         0
 300
-
  40
 0.0
 140
@@ -15735,7 +15682,6 @@ CONTENTFORMAT_BEGIN
  93
         0
 300
-
  40
 0.0
 140
@@ -15795,7 +15741,6 @@ CONTENTFORMAT_BEGIN
  93
         0
 300
-
  40
 0.0
 140
